@@ -11,9 +11,8 @@
       "description": "MarkItDown Plugin for Claude Code - 将各种文件格式转换为 Markdown，支持 OCR",
       "version": "1.0.0",
       "source": {
-        "source": "git",
-        "url": "https://github.com/LuoYan-33/MarkItDown-Plugin.git",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/LuoYan-33/MarkItDown-Plugin.git"
       },
       "author": {
         "name": "LuoYan",
